@@ -6,10 +6,10 @@ cloud:
     stack:
       auto: false
     credentials:
-      access-key: AKIASXSUMI76GFHZXB4P
-      secret-key: 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
+      access-key: 
+      secret-key: 
     endpoint:  
-      uri: https://sqs.us-east-1.amazonaws.com/188081784828/merxi-queue
+      uri: 
       
       
 server:
